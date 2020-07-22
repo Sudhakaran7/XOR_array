@@ -1,0 +1,25 @@
+Given an array, you have to print the maximum XOR operation of two numbers in the given array.
+
+Input Decsription:
+Numbers in array
+
+Output Description:
+Maximum XOR of any two numbers in the array
+
+Sample input:
+3 10 5 25 2 8
+
+Sample output:
+28
+
+Explanation:
+5^28 gives 28 which is maximum than any other XOR of other numbers.
+
+Sample input:
+77 3 4 34 19
+
+Sample output:
+111
+
+Explanation:
+77 ^ 34 gives 111.
